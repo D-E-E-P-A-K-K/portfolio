@@ -1,2 +1,2 @@
-// Add animations or interactive elements here in future
-console.log("Welcome to Deepak's portfolio!");
+// You can add animations or interactions here later
+console.log("Portfolio Loaded");
